@@ -1,0 +1,26 @@
+[Nov 22 18:25:16] 
+[Nov 22 18:25:16] ==DUPLICATOR INSTALLER BOOTSTRAP v1.4.7==
+[Nov 22 18:25:16] ----------------------------------------------------
+[Nov 22 18:25:16] Installer bootstrap start
+[Nov 22 18:25:16] Manual extract found so not going to extract dup-installer dir
+[Nov 22 18:25:16] ERROR: Didn't need to extract the installer.
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/assets<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/classes<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/ctrls<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/favicon<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/lib<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/views<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/dup-archive__[HASH].txt<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/dup-database__[HASH].sql<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/dup-installer-csrf__[HASH].txt<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/dup-installer-log__[HASH].txt<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/dup-installer-notices__[HASH].json<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/dup-installer-state_[HASH].txt<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/dup-orig-htaccess__[HASH].txt<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/dup-orig-wp-config__[HASH].txt<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/dup-scan__[HASH].json<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/index.php<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/main.installer.php<br/>
+[Nov 22 18:25:16] Set permissions of C:/xampp/htdocs/accessory/dup-installer/php_error__[HASH].log<br/>
+[Nov 22 18:25:16] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://localhost/accessory/dup-installer/main.installer.php

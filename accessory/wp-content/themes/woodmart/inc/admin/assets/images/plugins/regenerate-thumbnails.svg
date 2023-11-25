@@ -1,0 +1,16 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="128" height="128" fill="#8CC63F"/>
+<path d="M128 48L113 33H33V113L48 128H128V48Z" fill="#76A541"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M113 33H33V113H113V33ZM58 75C62.9706 75 67 70.9706 67 66C67 61.0294 62.9706 57 58 57C53.0294 57 49 61.0294 49 66C49 70.9706 53.0294 75 58 75ZM49 90V99H97V84L82 69L64 87L58 81L49 90Z" fill="white"/>
+<path d="M14 14H24V18H18V24H14V14Z" fill="white"/>
+<path d="M44 17H32.8V15H44V17Z" fill="white"/>
+<path d="M66.4 17H55.2V15H66.4V17Z" fill="white"/>
+<path d="M88.8 17H77.6V15H88.8V17Z" fill="white"/>
+<path d="M111.2 17H100V15H111.2V17Z" fill="white"/>
+<path d="M128 17H122.4V15H128V17Z" fill="white"/>
+<path d="M17 32.8V44H15V32.8H17Z" fill="white"/>
+<path d="M17 55.2V66.4H15V55.2H17Z" fill="white"/>
+<path d="M17 77.6V88.8H15V77.6H17Z" fill="white"/>
+<path d="M17 100V111.2H15V100H17Z" fill="white"/>
+<path d="M17 122.4V128H15V122.4H17Z" fill="white"/>
+</svg>

@@ -1,0 +1,154 @@
+2021-09-04T12:38:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:40+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:40+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:40+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:40+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:40+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:38:41+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+
+2021-09-04T12:39:21+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1176
+Stack trace:
+#0 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(265): woodmart_cart_count()
+#1 C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\modules\sticky-toolbar.php(150): woodmart_sticky_toolbar_cart_template()
+#2 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): woodmart_sticky_toolbar_template('')
+#3 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\supermarket\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\supermarket\wp-includes\general-template.php(3031): do_action('wp_footer')
+#6 C:\xampp\htdocs\supermarket\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#7 C:\xampp\htdocs\supermarket\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_ifra در C:\xampp\htdocs\supermarket\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php روی خط 1176
+

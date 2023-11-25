@@ -1,0 +1,83 @@
+// ------------------------------------------------------------------------------------------------
+// WIDGET CONTENT
+// ------------------------------------------------------------------------------------------------
+
+.widget-content {
+
+
+	input[type="checkbox"] {
+
+		+ label {
+			margin-bottom: 0;
+		}
+	}
+
+	label {
+		display: inline-block;
+		margin-bottom: 4px;
+
+		// + br {
+		// 	display: none;
+		// }
+	}
+
+	> .wd-widget-field {
+		margin-top: 8px;
+		margin-bottom: 8px;
+
+		// label {
+		// 	display: block;
+		// 	margin-bottom: 4px;
+
+		// 	// + br {
+		// 	// 	display: none;
+		// 	// }
+		// }
+
+		// br {
+		// 	display: none;
+		// }
+
+		.description {
+			padding: 2px 0 0 0 !important;
+			font-size: 12px;
+		}
+	}
+
+	.select2 {
+		max-width: 100% !important;
+
+		&.select2-container--xts {
+			margin-bottom: 0;
+
+			.select2-selection {
+				border-color: #8C8F94 !important;
+			}
+		}
+	}
+}
+
+.wd-widget-field {
+
+	&.wd-type-checkbox {
+		display: flex;
+		align-items: center;
+		margin-top: 12px;
+		margin-bottom: 12px;
+
+		label {
+			margin-bottom: 1px;
+
+			margin-inline-end: 9px;
+
+			&:after {
+				display: none;
+			}
+		}
+
+		input[type*=checkbox] {
+			// order: -1;
+			margin: 0;
+		}
+	}
+}
